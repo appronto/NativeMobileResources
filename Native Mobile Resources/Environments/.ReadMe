@@ -1,2 +1,19 @@
-In this folder, all necessary resources are stored per environment. 
-You will need to upload the certificates and Firebase files into the native builder. 
+In this folder, all necessary resources for manual uploads into the Native UI Builder are organized by environment. You will need to upload certificates and Firebase files into the Native UI Builder.
+
+The folders are divided into separate environments:
+
+- Dev
+- Test
+- Accp
+- Prod
+
+Each folder follows this structure:
+
+- Android:
+* Firebase SDK: Store your Firebase files here that need to be uploaded into the builder.
+* Keystore: Store your Android Keystore file here.
+
+- iOS:
+* Certificate: Store your certificate for that specific environment here.
+* Firebase SDK: Store your Firebase files here that need to be uploaded into the builder.
+* Provisioning Profile: Store the provisioning profile here.
