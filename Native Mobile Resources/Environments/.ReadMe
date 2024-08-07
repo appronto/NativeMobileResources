@@ -1,4 +1,4 @@
-In this folder, all necessary resources for manual uploads into the Native UI Builder are organized by environment. You will need to upload certificates and Firebase files into the Native UI Builder.
+In this folder, all necessary resources requiring manual uploads into the Native UI Builder are organized by environment. You will need to upload certificates and Firebase files into the Native UI Builder.
 
 The folders are divided into separate environments:
 
