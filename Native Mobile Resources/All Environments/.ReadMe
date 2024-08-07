@@ -1,0 +1,10 @@
+In this folder, you can find the following folders: 
+
+- IOS: 
+* APN: In order to use Push Notifications within Apple, upload your APN file here. 
+
+- Intake: Upload a completed intake form so that the environments can be set up in a structured way. 
+
+- MS AppCenter: 
+* Apple Appstore Connect Key: To connect AppCenter to Appstore Connect, Upload your AppStore Connect Key here. 
+* Google Play Store: To connect to Appcenter to Google Play Console, Upload your Google Play keys here. 
