@@ -3,7 +3,7 @@ Default folder structure that can be used to organize all necessary files and as
 
 ## First setup
 1. Copy the folder 'Native Mobile Resources' to the root of your Mendix Project folder.
-2. Add the contents to the **All Environments** folder. First complete the Intake form. 
+2. Add the contents to the **All Environments** folder. First complete the Intake form.
 3. Add the contents to the **Assets** folder
 4. Add the contents to the **Enironments** folder
 5. Add the contents to the **Native Builder profiles** folder
