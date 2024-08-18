@@ -11,6 +11,7 @@ Default folder structure that can be used to organize all necessary files and as
 To setup the **Native Builder Profiles** folder: 
 1. Complete the Mendix Native UI Builder configurations. 
 2  Copy the folders from the 'nativemobile' folder to 'Native Mobile Resources / Native Builder Profiles / [required environment]
+   
 3. Build your app 
 4. Delete the contents of 'nativemobile' folder 
 5. Commit the configurations included in Native Builder Profiles folder
